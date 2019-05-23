@@ -173,4 +173,50 @@ Situation A       Transisiton       SituationB
         - **Plus grande concentration au travail**: attention accrue sur la réalisation de la tache.
         - **Détérioration de la santé au travail**: stress, fatigue, nervosité, irritabilité, etc.
         - **Augmentation de la sécurité au travail**: diminution des risques d'accidents graves.
-        
+4. Impact sur l'oranisation
+    - Incorporation de nouvelles taches
+        - qui causent une **nouvelle division du travail**.
+    - Nouvelle répartition des taches
+        - Transfert de taches d'un post de travail à un autre.
+    - Séparation des postes
+        - **Exemple**: Journalistes (format web vs format papier)
+    - Fusion des postes
+        - **Exemple**: l'automatisation de la fabication a fusionné le travail d'**opérateur** et d'**ajusteur**.
+    - Apparition d'équipes de travail
+        - Groupes de travail où chacun a un role particulier à remplir en rapport avec un objectif commun.
+    - Diminution du role technique des cadres intermédiaires
+        - **Exemple**: La robotisation a diminué le controle exercé par les contremaitres sur les ouvriers spécialisés.
+    - Centralisation verticale
+        - Remontée de la prise de décision vers les sommets de la hierarchie.
+    - Décentralisation horizontale
+        - Le recours à des personnes en dehors de la ligne hiérarchique qui influencent le sprocessus de travail et les décisions (consultats externes à l'entreprise).
+    - Changement des moyens de communication
+        - De (lettre, mémo, téléphone) à (courriel, vidéoconférences, etc.)
+    - Moins grande communication horizontale / intra-départementale
+        - **Exemple**: système de GMAO: moins de communication entre gestion des stocks et gestion des achats.
+    - Plus grande communication intra-départementale
+        - Exemple: CASE
+    - Augmentation des controle de performance
+        - Le NT permettent de connaitre tres precisement la quantité de travail effectuée sur un site de production.
+    - Plus de controle sur les individus
+        - Exemple:  Mesure de l'absentéisme, de la longueur des appels téléphoniques, du temps passé sur internet, du types d'opérations
+    - Plus d'autonomie vis-à-vis des supérieurs hiérarchiques
+        - Possibilité de travailler sur projets indépendamment de la hierarchie
+    - Moins de dépendances entre départements
+    - Développement du travail
+        - Exemple: En 2018, 70% des employés de Télus font du télétravail.
+    - Changement des habitudes de travail
+        - Exemple: introduction de plus de discipline, habitude de communiquer et de dialoguer avec les utilisateurs.
+    - Changement de statut sociale
+        - La complexification des taches apporte plus de considération de la part des autres employés.
+    - Apparition d'une nouvelle mantalité de travail
+        - L'introduction d'une nouvelle techologie peut changer la perception (favorablement ou infavorablement) des travailleurs vis-à-vis de l'entreprise.
+    - Changement dans les modes d'exercice du pouvoir
+        - Changement des relations entre superviseurs et employés.
+    - Renforcement / diminution du pouvoir
+        - Exemple; assitats-juridiques avec l'IA (diminution). Employés des services informatiques (augmentation).
+    - Apparition de nouveaux pouvoirs
+        - Surtout chez ceux qui possièdent l'**expertise** pour exploiter les possibilités des nouvelles technologies.
+
+Question d'examen:
+Selon vous, une nouvelle technologie contribue plus à créer ou en détruire des emplois?
