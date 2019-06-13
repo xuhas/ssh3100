@@ -38,20 +38,20 @@ Exemples liés aux NT
     - Introduction massive des ordinateurs dans les entreprises.
     - Piratage de logiciels, qui sont alors rares et coûteux.
 
-- 2ième PHASE (fin des années 1980)
+- 2ème PHASE (fin des années 1980)
     - Émergence et extension des réseaux informatiques
     - Popularisation du «hacking».
     - Volonté de défier les systèmes techniques et de montrer leur vulnérabilité.
 
-- 3ième PHASE (années 1990)
+- 3ème PHASE (années 1990)
     - L'information devient une valeur stratégique.
     - Du hacker isolé aux organisations, parfois très puissantes.
 
-- 4ième PHASE (années 2000)
+- 4ème PHASE (années 2000)
     - Explosion de la cybercriminalité (téléchargement illégal, acte de «phishing», vol d'informations personnelles, etc).
     - Militantisme des hackers (Anonymous, Chaos Computer Club)
 
-- 5ième PHASE (années 2010)
+- 5ème PHASE (années 2010)
     - Apparition du phénomène des «leaks» (fuite massive des données)
     - Figure du lanceur d'alerte
 
