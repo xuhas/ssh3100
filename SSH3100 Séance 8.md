@@ -33,7 +33,7 @@ ex:
 - Grèves des typographes (1971)
 
 ### Voir tableau Opposition vs Résistance
-![alt text](oppVsRes.PNG "Logo Title Text 1")
+![alt text](./assets/oppVsRes.PNG "Logo Title Text 1")
 
 ## Manifestation du phénomène
 - Les gens évoquent des doutes quant à la nécessité du changement
