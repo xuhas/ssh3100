@@ -84,7 +84,7 @@ S'introduire dans une système informatiques dans l'intention de se procurer un 
 
 **Quelles sont les sources de cette ambivalence?**
  
- Voir tableau envoyé
+ ![](./assets/ambiguity.png)
 
 # Les groupes de pressions
 
