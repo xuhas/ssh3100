@@ -72,14 +72,14 @@
 2. La théorie du choix rationnel
     - L'individu peut utiliser la tech d'une façon différente à ce qui est entendu par le développeur.
 3. L'interactionnisme
-    - Dire qu'il faut trouver un équilibre entre les impacts de la tech et la marge de manoeuvre qu'on peut laisser aux individus pour s'approprier et accepter la tech.
+    - Dire qu'il faut trouver un équilibre entre les impacts de la tech et la marge de manœuvre qu'on peut laisser aux individus pour s'approprier et accepter la tech.
     - Processus itératif entre usager et producteurs
 
-**Voir tableau envoyé**
+![](./assets/3GCT.PNG)
 
 ## Exemple: Système de paie Phénix
 - 1970: Ancien système régional de paye (SRP)
-- 2010L PeopleSoft développé par Oracle
+- 2010: PeopleSoft développé par Oracle
     - Centraliser le système de paie de 101 ministères et organismes.
     - 80 000 règles relatives à la rémunération.
 
@@ -94,7 +94,7 @@
 - L'organisation du travail.
 
 ## Les 5 étapes de la GCT
-**Voir image avec petit escalier**
+![](./assets/5GCT.PNG)
 
 ## Texte du recueil sur la GCT
 (texte 7)

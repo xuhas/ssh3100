@@ -183,3 +183,93 @@ Retombés
         - Équipes de travail semi-autonomes
     2. Instauration de la gestion participative
         - Les contremaîtres deviennent des animateurs, des facilitateurs, des conseillers.
+
+## Du Taylorisme au post-taylorisme
+- Avec le décloisonnement horizontal
+
+    - Rupture avec le parcellisation
+    - Rupture avec la monotonie au travail
+- Avec le décloisonnement vertical
+
+    - Rupture avec la division conception / exécution du travail
+    - Rupture avec le rôle traditionnel du contremaître.
+![alt text](./assets/tablSynthPNG.PNG "Logo Title Text 1")
+
+## Développement d'un néo-taylorisme
+
+Post taylorisme:
+
+    adopté par les entreprises innovantes, plus proche du monde de la R&D que de la production de masse.
+
+Néo-taylorisme:
+
+    taylorisme relavé, approfondi, exacerbé par la technologie.
+
+    - Modernisation basée sur la seule technologie.
+    - Le moins d'initiatives possibles aux êtres humains 
+    - L'organisation du travail doit d'abord satisfaire aux exigences de la technologie.
+    - Pas d'enrichissement humain du travail.
+
+# b. Nouveaux besoins en ressources humaines
+
+    a. Nouveau besoins, nouveaux rôles
+    b. Compétences vs. qualifications
+
+Nouvelles économie:
+
+- Recul du capital tangible (ressources naturelles, machines, installations).
+
+- Montée du capital intangible (information, savoirs, communication et organisation du travail).
+
+### Conséquences
+- Recentrage de l'entreprise sur les «ressources humaines»
+- RH: principal facteur de compétitivité des entreprises.
+
+## Nouveaux rôles de la GRH
+
+1. Attires nouvelles compétences.
+2. Développer les compétences requises.
+3. Renouveler les compétences acquises.
+4. Mobiliser les compétences disponibles.
+
+Compétences vs qualifications
+
+Modèle de qualification
+    - Repose principalement sur le poste de travail.
+    - Se mesure en termes de savoir et de savoir-faire.
+    - Valorise la discipline et la hiérarchie.
+    - Importance du facteur «stabilité»
+
+Modèle de compétence
+    - Repose principalement sr le titulaire du poste de travail.
+    - Se mesure en termes de savoir et de savoir-faire, mais aussi en termes de savoir-être.
+    - Valorise la coopération, l'autonomie et la responsabilité.
+    - Importance du facteur «incertitude».
+
+4 types d'incertitudes:
+
+    1. Incertitudes des technologies
+    2. Incertitudes des produits.
+    3. Incertitudes des connaissances
+    4. Incertitudes des relations à l'environnement
+
+![alt text](./assets/qualVSComp.PNG "Logo Title Text 1")
+
+
+
+# Questions du cours de révision
+
+1. Est ce que les impacts des NT sont ressenties de façon homogène par tout es membres d'une société?
+
+Réponse: Non, les impacts ne sont pas homogène car différences blablablabla.
+
+2. Les entreprises mettent en place des processus pour prévenir les blessures..Quel concept?
+
+Réponse: Gestion des risques.
+
+3. La comm joue un role fondamental dans les gestion du risque, certaines compagnies ne le font pas, pourquoi?
+    - Réputation
+    - Panique
+    - ...
+
+
